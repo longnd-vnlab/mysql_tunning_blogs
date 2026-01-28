@@ -1,4 +1,3 @@
-```markdown
 # MySQL lên Cloud cho “ngon lành”: chọn Managed hay tự dựng VM để khỏi ảo ma lúc on-call
 
 ## Mở đầu – Tản mạn dev
@@ -106,4 +105,3 @@ Nếu mọi người muốn đào tiếp, mình gợi ý đọc sâu thêm về 
 **Nguồn:**
 - High Performance MySQL, 4th Edition – Chapter 12: MySQL in the Cloud [file:1]
 - Official MySQL Documentation
-```
