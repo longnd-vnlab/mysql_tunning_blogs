@@ -1,5 +1,3 @@
-Giờ mình đã có đủ thông tin từ Chapter 7 để viết bài blog kỹ thuật theo yêu cầu. Mình sẽ viết bài bằng tiếng Việt với phong cách của một technical architect, sử dụng giọng văn thân thiện và có chút humor nhẹ như đã yêu cầu.
-
 ***
 
 # Index MySQL: Nghệ Thuật Tối Ưu Hiệu Năng Hay Là Cái Bẫy Tự Đào Cho Mình?
